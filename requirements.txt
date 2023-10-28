@@ -1,0 +1,6 @@
+google-cloud-bigquery==3.11.4
+plost
+matplotlib
+snowflake-snowpark-python[pandas]
+streamlit
+plotly
