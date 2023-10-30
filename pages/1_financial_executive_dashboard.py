@@ -5,10 +5,9 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 from datetime import datetime
-from functions.filters import date_filter, filter_data
+from functions.filters import date_filter, filter_data, extract_second_item
 from functions.variables import database_schema_variables, destination_selection
 from functions.query import query_results
-from functions.data_cleaning import extract_second_item
 
 st.sidebar.header('Data Connection Variables')
 destination = destination_selection()
@@ -26,29 +25,16 @@ else:
     bs_data = data
     is_data = query_results(destination=destination, database=database, schema=schema, model='is')
 
-    ## Include the optional filters as well
-
-    ## End filter section
-    # st.markdown('---')
-
     ## Only generate the tiles if date range is populated
-    if d is not None and len(d) == 2 :
+    if d is not None and len(d) == 2:
         start_date, end_date = d
-        if start_date is not None:
+        if start_date is not None and start_date <= end_date:
             ## Filter data based on filters applied
             is_data_date_filtered = filter_data(start=start_date, end=end_date, data_ref=is_data, model='is')
             bs_data_date_filtered = filter_data(start=start_date, end=end_date, data_ref=bs_data, model='bs')
 
-            ## Period specific information
-            # if start_date == end_date:
-            #     st.title(f'{start_date.strftime("%b %Y")} period')
-            # else:
-                # st.title(f'{start_date.strftime("%b %Y")} to {end_date.strftime("%b %Y")} period')
-
             ## KPI Metrics
-            # st.subheader("Balance Sheet Metrics")
             st.markdown('<hr style="height:2px;border:none;color:#333;background-color:#333;" />', unsafe_allow_html=True)
-            # Display in Streamlit
             st.subheader('High Level Balance and Totals')
 
             metrics_data = bs_data_date_filtered.copy()
@@ -125,6 +111,7 @@ else:
                 st.metric("Operating Expenses", formatted_opp_expense, delta=None, delta_color="normal", help=None, label_visibility="visible")
             
             st.markdown("---")
+
             col1, col2 = st.columns(2)
             with col1:
                 # formatted_gross_profit_cogs = "${:,.2f}".format(gross_profit_cogs)
@@ -265,3 +252,5 @@ else:
             with col5:
                 formatted_liquidity_ratio = "{:,.2f}%".format(liquidity_ratio)
                 st.metric("Liquidity Ratio", formatted_liquidity_ratio, delta=None, delta_color="normal", help=None, label_visibility="visible")
+        else:
+            st.warning("Please ensure your starting period is before your ending period.")

@@ -21,9 +21,9 @@ else:
     data, d = date_filter(dest=destination, db=database, sc=schema, md='is')
 
     ## Only generate the tiles if date range is populated
-    if d is not None and len(d) == 2 :
+    if d is not None and len(d) == 2:
         start_date, end_date = d
-        if start_date is not None:
+        if start_date is not None and start_date <= end_date:
             ## Filter data based on filters applied
             data_date_filtered = filter_data(start=start_date, end=end_date, data_ref=data, model='is')
 
@@ -43,7 +43,7 @@ else:
                 # st.subheader(category)
                 
                 category_data = df[df['account_category'] == category]
-
+                st.subheader(f"**{category}**")
                 # Expansion for different account types under the category
                 for account_type in category_data['account_type_name'].unique():
                     account_type_data = category_data[category_data['account_type_name'] == account_type]
@@ -73,3 +73,5 @@ else:
             # Display Gross Margin
             st.subheader("Net Profit")
             st.write("${:,.2f}".format(gross_margin))
+        else:
+            st.warning("Please ensure your starting period is before your ending period.")

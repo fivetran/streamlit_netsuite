@@ -1,0 +1,539 @@
+balance_sheet_sort_helper,accounting_period_name,accounting_period_ending,account_category,account_name,account_type_name,balance
+1,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,98
+1,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Prince Paper Checking Account,Bank,903
+1,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,89
+1,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,49
+1,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,85308
+1,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,37864
+1,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Prince Paper Checking Account,Bank,42472
+1,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,4034222
+1,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,20950
+1,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,20
+1,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,2812
+1,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,78775
+1,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,44
+1,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,39218
+1,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Prince Paper Checking Account,Bank,19376
+1,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,10558
+1,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,2045
+1,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Prince Paper Checking Account,Bank,15966
+1,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Prince Paper Checking Account,Bank,9437
+1,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,5849704
+1,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Sabre Checking Account,Bank,3506
+1,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,6
+1,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,54
+1,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,6484
+1,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,12
+1,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,82041
+1,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Sabre Checking Account,Bank,26077
+1,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,68
+1,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,23
+1,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,4631
+1,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,28129228
+1,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,163
+1,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Sabre Checking Account,Bank,47
+1,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,12893
+1,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,49
+1,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Prince Paper Checking Account,Bank,7184978
+1,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,81
+1,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,16
+1,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,5
+1,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Sabre Checking Account,Bank,76
+1,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,2923
+1,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,36523964
+1,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,1693430
+1,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Sabre Checking Account,Bank,2556
+1,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,53
+1,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,23
+1,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Cash and Cash Equivalents : Dunder Mifflin Checking Account,Bank,25764
+2,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Accounts Receivable : Accounts Receivable - Customers,Accounts Receivable,711199
+2,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Accounts Receivable : Accounts Receivable - Customers,Accounts Receivable,1743024
+2,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Accounts Receivable : Accounts Receivable - Customers,Accounts Receivable,506
+2,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Accounts Receivable : Accounts Receivable - Customers,Accounts Receivable,9
+2,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Accounts Receivable : Accounts Receivable - Customers,Accounts Receivable,8
+2,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Accounts Receivable : Accounts Receivable - Customers,Accounts Receivable,27
+2,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Accounts Receivable : Accounts Receivable - Customers,Accounts Receivable,1394365
+2,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Accounts Receivable : Accounts Receivable - Customers,Accounts Receivable,14
+2,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Accounts Receivable : Accounts Receivable - Customers,Accounts Receivable,3267400
+2,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Accounts Receivable : Accounts Receivable - Customers,Accounts Receivable,91
+2,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Accounts Receivable : Accounts Receivable - Customers,Accounts Receivable,45
+2,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Accounts Receivable : Accounts Receivable - Customers,Accounts Receivable,51
+2,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Accounts Receivable : Accounts Receivable - Customers,Accounts Receivable,46
+2,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Accounts Receivable : Accounts Receivable - Customers,Accounts Receivable,93
+2,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Accounts Receivable : Accounts Receivable - Customers,Accounts Receivable,154719
+2,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Accounts Receivable : Accounts Receivable - Customers,Accounts Receivable,26
+2,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Accounts Receivable : Accounts Receivable - Customers,Accounts Receivable,321619
+2,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Accounts Receivable : Accounts Receivable - Customers,Accounts Receivable,82
+4,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Other Tax Assets : VAT,Other Current Asset,5835
+4,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Other Current Assets : Willy Wanka Deposit,Other Current Asset,846
+4,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Other Current Assets : Willy Wanka Deposit,Other Current Asset,82
+4,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Other Current Assets : Willy Wanka Deposit,Other Current Asset,80770
+4,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Taxes Receivable : Sales Tax Refunds,Other Current Asset,7251
+4,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Taxes Receivable : Sales Tax Refunds,Other Current Asset,2478
+4,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Taxes Receivable : Sales Tax Refunds,Other Current Asset,10869
+4,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Other Current Assets : Paper Inventory,Other Current Asset,47
+4,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Other Tax Assets : VAT,Other Current Asset,5740
+4,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Other Tax Assets : VAT,Other Current Asset,2460
+4,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Other Current Assets : Funds in Transit,Other Current Asset,26
+4,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Other Tax Assets : VAT,Other Current Asset,69
+4,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Other Current Assets : Willy Wanka Deposit,Other Current Asset,663
+4,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Other Current Assets : Willy Wanka Deposit,Other Current Asset,20576
+4,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Taxes Receivable : Sales Tax Refunds,Other Current Asset,16600
+4,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Taxes Receivable : Sales Tax Refunds,Other Current Asset,17054
+4,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Taxes Receivable : Sales Tax Refunds,Other Current Asset,12670
+4,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Other Current Assets : Other Receivables (Current),Other Current Asset,21
+4,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Other Current Assets : Fixed Deposits (PEO and other),Other Current Asset,3355
+4,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Other Current Assets : Other Receivables (Current),Other Current Asset,38
+4,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Other Current Assets : Other Receivables (Current),Other Current Asset,15544
+4,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Other Current Assets : Other Receivables (Current),Other Current Asset,4396
+4,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Other Current Assets : Advances Paid,Other Current Asset,174
+4,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Other Current Assets : Fixed Deposits (PEO and other),Other Current Asset,1228
+4,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Other Current Assets : Deferred Tax Asset,Other Current Asset,919
+4,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Other Current Assets : Investment in Prince Paper,Other Current Asset,92
+4,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Other Current Assets : Investment in Prince Paper,Other Current Asset,88
+4,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Other Current Assets : Investment in Prince Paper,Other Current Asset,5
+4,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Other Current Assets : Fixed Deposits (PEO and other),Other Current Asset,32
+4,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Taxes Receivable : Tax Receivable,Other Current Asset,79
+4,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Taxes Receivable : Tax Receivable,Other Current Asset,79
+4,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Other Current Assets : Funds in Transit,Other Current Asset,34
+4,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Other Current Assets : Investment in Prince Paper,Other Current Asset,7
+4,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Other Current Assets : Fixed Deposits (PEO and other),Other Current Asset,62
+4,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Taxes Receivable : Tax Receivable,Other Current Asset,481
+4,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Other Current Assets : Sales Lead Acquisition Costs,Other Current Asset,137784
+4,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Other Current Assets : Advances Paid,Other Current Asset,57
+4,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Other Current Assets : Deferred Tax Asset,Other Current Asset,634
+4,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Other Current Assets : Other Receivables (Current),Other Current Asset,96
+4,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Taxes Receivable : Tax Receivable,Other Current Asset,1947
+4,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Other Current Assets : Sales Lead Acquisition Costs,Other Current Asset,52283
+4,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Taxes Receivable : Tax Receivable,Other Current Asset,9915
+4,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Taxes Receivable : Tax Receivable,Other Current Asset,5550
+4,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Other Current Assets : Other Receivables (Current),Other Current Asset,23
+4,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Taxes Receivable : Tax Receivable,Other Current Asset,8700
+4,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Other Tax Assets : VAT,Other Current Asset,9608
+4,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Other Tax Assets : VAT,Other Current Asset,1401
+4,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Other Current Assets : Sales Lead Acquisition Costs,Other Current Asset,119211
+4,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Other Current Assets : Sales Lead Acquisition Costs,Other Current Asset,79515
+4,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Other Current Assets : Advances Paid,Other Current Asset,222
+4,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Other Current Assets : Funds in Transit,Other Current Asset,81
+4,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Other Current Assets : Security Deposits (Office Space) Current,Other Current Asset,92190
+4,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Other Tax Assets : VAT,Other Current Asset,35562
+4,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Other Tax Assets : VAT,Other Current Asset,12221
+4,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Taxes Receivable : Tax Receivable,Other Current Asset,14884
+4,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Other Current Assets : Investment in Prince Paper,Other Current Asset,56
+4,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Other Current Assets : Deferred Tax Asset,Other Current Asset,1008
+4,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Other Current Assets : Advances Paid,Other Current Asset,174
+4,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Taxes Receivable : Tax Receivable,Other Current Asset,18685
+4,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Other Current Assets : Investment in Prince Paper,Other Current Asset,25
+4,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Other Current Assets : Advances Paid,Other Current Asset,64
+4,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Other Current Assets : Security Deposits (Office Space) Current,Other Current Asset,131370
+4,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Taxes Receivable : Tax Receivable,Other Current Asset,1494
+4,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Taxes Receivable : Tax Receivable,Other Current Asset,7664
+4,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Other Current Assets : Sales Lead Acquisition Costs,Other Current Asset,165807
+4,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Other Current Assets : Security Deposits (Office Space) Current,Other Current Asset,77811
+4,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Taxes Receivable : Tax Receivable,Other Current Asset,15904
+4,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Other Current Assets : Funds in Transit,Other Current Asset,38
+4,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Other Current Assets : Security Deposits (Office Space) Current,Other Current Asset,3767
+4,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Other Current Assets : Deferred Tax Asset,Other Current Asset,516
+4,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Other Current Assets : Security Deposits (Office Space) Current,Other Current Asset,62859
+4,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Other Current Assets : Funds in Transit,Other Current Asset,1924
+4,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Other Current Assets : Funds in Transit,Other Current Asset,33
+4,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Other Current Assets : Sales Lead Acquisition Costs,Other Current Asset,43671
+4,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Taxes Receivable : Tax Receivable,Other Current Asset,2240
+4,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Other Current Assets : Other Receivables (Current),Other Current Asset,7
+4,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Other Current Assets : Deferred Tax Asset,Other Current Asset,442
+4,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Other Current Assets : Other Receivables (Current),Other Current Asset,23
+4,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Other Current Assets : Fixed Deposits (PEO and other),Other Current Asset,46
+5,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Property and equipment : Computers,Fixed Asset,192884
+5,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Property and equipment : Computers,Fixed Asset,42385
+5,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Computers,Fixed Asset,-57786
+5,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Printers,Fixed Asset,71
+5,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Movie Props,Fixed Asset,-183
+5,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Property and equipment : Movie Props,Fixed Asset,79539
+5,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Property and equipment : Equipment,Fixed Asset,365
+5,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Movie Props,Fixed Asset,-242
+5,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Furniture and Fixtures,Fixed Asset,-9458
+5,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Property and equipment : Equipment,Fixed Asset,615
+5,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Furniture and Fixtures,Fixed Asset,-15176
+5,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Property and equipment : Pink Paper,Fixed Asset,94883
+5,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Copier,Fixed Asset,-46
+5,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Property and equipment : Vance Refrigeration,Fixed Asset,25144
+5,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Movie Props,Fixed Asset,-369
+5,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Computers,Fixed Asset,-97415
+5,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Copier,Fixed Asset,-82
+5,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Property and equipment : Pink Paper,Fixed Asset,41374
+5,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Property and equipment : Computers,Fixed Asset,192101
+5,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Printers,Fixed Asset,58
+5,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Property and equipment : Equipment,Fixed Asset,2923
+5,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Property and equipment : Equipment,Fixed Asset,934
+5,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Computers,Fixed Asset,-60175
+5,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Copier,Fixed Asset,-88
+5,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Computers,Fixed Asset,-80734
+5,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Property and equipment : Furniture and Fixtures,Fixed Asset,14508
+5,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Property and equipment : Movie Props,Fixed Asset,70434
+5,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Property and equipment : Vance Refrigeration,Fixed Asset,76405
+5,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Property and equipment : Vance Refrigeration,Fixed Asset,62627
+5,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Furniture and Fixtures,Fixed Asset,-448
+5,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Furniture and Fixtures,Fixed Asset,-22318
+5,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Property and equipment : Computers,Fixed Asset,90423
+5,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Property and equipment : Movie Props,Fixed Asset,5083
+5,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Copier,Fixed Asset,-214
+5,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Property and equipment : Furniture and Fixtures,Fixed Asset,56209
+5,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Property and equipment : Equipment,Fixed Asset,2378
+5,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Property and equipment : Movie Props,Fixed Asset,49664
+5,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Furniture and Fixtures,Fixed Asset,-891
+5,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Property and equipment : Pink Paper,Fixed Asset,172456
+5,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Copier,Fixed Asset,-85
+5,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Property and equipment : Pink Paper,Fixed Asset,183270
+5,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Property and equipment : Furniture and Fixtures,Fixed Asset,27006
+5,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Property and equipment : Furniture and Fixtures,Fixed Asset,43705
+5,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Copier,Fixed Asset,-140
+5,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Printers,Fixed Asset,16
+5,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Property and equipment : Movie Props,Fixed Asset,22279
+5,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Computers,Fixed Asset,-16455
+5,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Property and equipment : Vance Refrigeration,Fixed Asset,121228
+5,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Property and equipment : Computers,Fixed Asset,325925
+5,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Property and equipment : Equipment,Fixed Asset,250
+5,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Property and equipment : Furniture and Fixtures,Fixed Asset,25781
+5,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Property and equipment : Vance Refrigeration,Fixed Asset,11153
+5,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Property and equipment : Pink Paper,Fixed Asset,58271
+5,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Printers,Fixed Asset,1
+5,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Property and equipment : Pink Paper,Fixed Asset,69884
+5,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Computers,Fixed Asset,-49316
+5,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Printers,Fixed Asset,77
+5,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Property and equipment : Computers,Fixed Asset,260385
+5,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Property and equipment : Vance Refrigeration,Fixed Asset,1340
+5,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Furniture and Fixtures,Fixed Asset,-14237
+5,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Accumulated Depreciation : A/D Printers,Fixed Asset,25
+5,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Property and equipment : Furniture and Fixtures,Fixed Asset,32491
+6,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Other Assets : Lead Acquisition Costs,Other Asset,1639447
+6,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Other Assets : Lead Acquisition Costs,Other Asset,799648
+6,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Other Assets : Long Term Deposits,Other Asset,15871
+6,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Other Assets : Long Term Deposits,Other Asset,94334
+6,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Other Assets : Lead Acquisition Costs,Other Asset,787102
+6,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Other Assets : Lead Acquisition Costs,Other Asset,84987
+6,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Other Assets : Long Term Deposits,Other Asset,23862
+6,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Other Assets : Long Term Deposits,Other Asset,9429
+6,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Other Assets : Long Term Deposits,Other Asset,33994
+6,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Other Assets : Long Term Deposits,Other Asset,21417
+6,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Other Assets : Lead Acquisition Costs,Other Asset,2401390
+6,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Other Assets : Lead Acquisition Costs,Other Asset,163668
+7,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Insurance,Prepaid Expense,6540
+7,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Paper Fees,Prepaid Expense,202370
+7,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Cost of Sales,Prepaid Expense,315
+7,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Prepaid Expenses : Paper Fees,Prepaid Expense,148188
+7,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Prepaid Expenses : Paper Fees,Prepaid Expense,17936
+7,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Expenses Other,Prepaid Expense,139654
+7,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Insurance,Prepaid Expense,23391
+7,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Expenses Other,Prepaid Expense,63117
+7,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Paper Fees,Prepaid Expense,163549
+7,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Taxes,Prepaid Expense,7480
+7,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Marketing,Prepaid Expense,222097
+7,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Expenses Other,Prepaid Expense,66131
+7,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Taxes,Prepaid Expense,17284
+7,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Marketing,Prepaid Expense,16615
+7,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Rent,Prepaid Expense,14075
+7,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Expenses Other,Prepaid Expense,136030
+7,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Cost of Sales,Prepaid Expense,568
+7,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Rent,Prepaid Expense,7191
+7,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Taxes,Prepaid Expense,17088
+7,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Marketing,Prepaid Expense,92775
+7,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Cost of Sales,Prepaid Expense,880
+7,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Expenses Other,Prepaid Expense,218901
+7,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Rent,Prepaid Expense,33118
+7,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Rent,Prepaid Expense,28920
+7,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Insurance,Prepaid Expense,601
+7,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Paper Fees,Prepaid Expense,371827
+7,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Paper Fees,Prepaid Expense,361043
+7,Aug 2023,2023-08-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Rent,Prepaid Expense,4374
+7,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Insurance,Prepaid Expense,3368
+7,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Expenses Other,Prepaid Expense,5169
+7,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Marketing,Prepaid Expense,105970
+7,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Rent,Prepaid Expense,4843
+7,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Taxes,Prepaid Expense,50367
+7,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Marketing,Prepaid Expense,128548
+7,Sep 2023,2023-09-30 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Taxes,Prepaid Expense,19896
+7,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Cost of Sales,Prepaid Expense,22
+7,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Insurance,Prepaid Expense,14802
+7,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Cost of Sales,Prepaid Expense,1348
+7,May 2023,2023-05-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Taxes,Prepaid Expense,9488
+7,Jun 2023,2023-06-30 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Insurance,Prepaid Expense,5706
+7,Oct 2023,2023-10-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Marketing,Prepaid Expense,8562
+7,Jul 2023,2023-07-31 00:00:00.000000 UTC,Asset,Prepaid Expenses : Prepaid Cost of Sales,Prepaid Expense,792
+8,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Accounts Payable : Payroll Payables,Accounts Payable,8737
+8,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Accounts Payable : Payroll Payables,Accounts Payable,56
+8,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Accounts Payable : Expense Payables,Accounts Payable,98
+8,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Accounts Payable : Expense Payables,Accounts Payable,527400
+8,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Accounts Payable : Payroll Payables,Accounts Payable,37
+8,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Accounts Payable : Payroll Payables,Accounts Payable,16
+8,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Accounts Payable : Payroll Payables,Accounts Payable,89
+8,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Accounts Payable : Intercompany Payables,Accounts Payable,38
+8,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Accounts Payable : Expense Reports Payable,Accounts Payable,2272
+8,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Accounts Payable : Expense Reports Payable,Accounts Payable,6532
+8,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Accounts Payable : Expense Payables,Accounts Payable,205173
+8,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Accounts Payable : Intercompany Payables,Accounts Payable,100
+8,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Accounts Payable : Other Payables,Accounts Payable,11064
+8,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Accounts Payable : Intercompany Payables,Accounts Payable,48
+8,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Accounts Payable : Other Payables,Accounts Payable,81
+8,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Accounts Payable : Intercompany Payables,Accounts Payable,56
+8,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Accounts Payable : Intercompany Payables,Accounts Payable,33
+8,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Accounts Payable : Expense Payables,Accounts Payable,532873
+8,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Accounts Payable : Expense Payables,Accounts Payable,63
+8,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Accounts Payable : Expense Payables,Accounts Payable,193479
+8,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Accounts Payable : Other Payables,Accounts Payable,14089
+8,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Accounts Payable : Other Payables,Accounts Payable,54060
+8,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Accounts Payable : Other Payables,Accounts Payable,5292
+8,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Accounts Payable : Expense Reports Payable,Accounts Payable,359
+8,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Accounts Payable : Expense Reports Payable,Accounts Payable,-2791
+8,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Accounts Payable : Expense Payables,Accounts Payable,210725
+8,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Accounts Payable : Other Payables,Accounts Payable,340
+8,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Accounts Payable : Intercompany Payables,Accounts Payable,75
+8,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Accounts Payable : Expense Reports Payable,Accounts Payable,779
+8,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Accounts Payable : Expense Reports Payable,Accounts Payable,237
+8,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Accounts Payable : Intercompany Payables,Accounts Payable,90
+8,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Accounts Payable : Expense Payables,Accounts Payable,579114
+8,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Accounts Payable : Payroll Payables,Accounts Payable,63
+8,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Michael's Personal Card,Accounts Payable,90
+9,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Michael's Personal Card,Credit Card,2123
+9,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Credit Card Accounts : Corporate Card,Credit Card,96
+9,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Scranton Credit,Credit Card,44
+9,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Credit Card Accounts : Kohls Cash Card,Credit Card,6165
+9,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Credit Card Accounts : Corporate Card,Credit Card,8
+9,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Credit Card Accounts : Target Card,Credit Card,33502
+9,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Scranton Credit,Credit Card,431
+9,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Credit Card Accounts : Charles Minor Steel Card,Credit Card,40
+9,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Charles Minor Steel Card,Credit Card,50
+9,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Kohls Cash Card,Credit Card,-927
+9,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Scranton Credit,Credit Card,2599
+9,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Target Card,Credit Card,12753
+9,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Kohls Cash Card - Travel,Credit Card,21682
+9,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Corporate Card,Credit Card,5
+9,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Charles Minor Steel Card,Credit Card,5
+9,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Kohls Cash Card,Credit Card,2308
+9,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Credit Card Accounts : Kohls Cash Card,Credit Card,894
+9,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Kohls Cash Card,Credit Card,20609
+9,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Target Card,Credit Card,918
+9,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Kohls Cash Card - Travel,Credit Card,2357
+9,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Corporate Card,Credit Card,30
+9,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Scranton Credit,Credit Card,665
+9,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Target Card,Credit Card,34427
+9,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Target Card,Credit Card,47612
+9,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Charles Minor Steel Card,Credit Card,91
+9,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Charles Minor Steel Card,Credit Card,77
+9,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Credit Card Accounts : Target Card,Credit Card,64304
+9,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Credit Card Accounts : Michael's Personal Card,Credit Card,979
+9,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Corporate Card,Credit Card,79
+9,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Kohls Cash Card,Credit Card,142
+9,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Corporate Card,Credit Card,77
+9,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Michael's Personal Card,Credit Card,6520
+9,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Michael's Personal Card,Credit Card,160
+9,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Credit Card Accounts : Michael's Personal Card,Credit Card,1040
+9,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Credit Card Accounts : Michael's Personal Card,Credit Card,4350
+9,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Credit Card Accounts : Kohls Cash Card - Travel,Credit Card,5191
+9,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Credit Card Accounts : Scranton Credit,Credit Card,252
+9,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Credit Card Accounts : Scranton Credit,Credit Card,2911
+9,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Credit Card Accounts : Charles Minor Steel Card,Credit Card,63
+10,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Employee HSA,Other Current Liability,3896
+10,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Other Benefits Payable,Other Current Liability,48
+10,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Commission accrual,Other Current Liability,549989
+10,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Retirement Contributions Payable,Other Current Liability,60038
+10,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Retirement Contributions Payable,Other Current Liability,24649
+10,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Commission accrual,Other Current Liability,14496
+10,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Other Tax Liabilities : VAT,Other Current Liability,92
+10,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Wages Payable,Other Current Liability,36
+10,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Sales and other taxes payable : Provision for Income Taxes,Other Current Liability,10832
+10,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Sales Taxes Payable - USA,Other Current Liability,3996
+10,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Benefits Payable,Other Current Liability,-11104
+10,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Other Current Liabilities : Accrued Expenses,Other Current Liability,12562
+10,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Other Current Liabilities : Accrued Expenses,Other Current Liability,13033
+10,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Retirement Contributions Payable,Other Current Liability,22552
+10,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Other Tax Liabilities : VAT,Other Current Liability,35
+10,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Other Current Liabilities : Customer Deposits,Other Current Liability,1139
+10,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Sales Taxes Payable - USA,Other Current Liability,4092
+10,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Accrued Payroll : Other Benefits Payable,Other Current Liability,57
+10,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Benefits Payable,Other Current Liability,-36855
+10,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Electric City Benefits Payable,Other Current Liability,37233
+10,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Other Current Liabilities : Deferred Rent,Other Current Liability,36432
+10,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Employee HSA,Other Current Liability,8711
+10,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Commission accrual,Other Current Liability,7648
+10,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Office Manager,Other Current Liability,2568
+10,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Wages Payable,Other Current Liability,18
+10,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Sales and other taxes payable : Provision for Income Taxes,Other Current Liability,13590
+10,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Office Manager,Other Current Liability,7083
+10,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Taxes Payable,Other Current Liability,6290
+10,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Other Tax Liabilities : VAT,Other Current Liability,51
+10,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Retirement Contributions Payable,Other Current Liability,54313
+10,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Taxes Payable,Other Current Liability,1764
+10,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Other Current Liabilities : Deferred Rent,Other Current Liability,6080
+10,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Other Tax Liabilities : VAT,Other Current Liability,39
+10,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Other Benefits Payable,Other Current Liability,1
+10,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Other Current Liabilities : Accrued COGS,Other Current Liability,78389
+10,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Benefits Payable,Other Current Liability,-5626
+10,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Other Current Liabilities : Accrued Interest,Other Current Liability,2
+10,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Retirement Contributions Payable,Other Current Liability,64135
+10,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Sales and other taxes payable : Income Taxes Payable - International,Other Current Liability,458
+10,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Other Tax Liabilities : VAT,Other Current Liability,53
+10,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Sales and other taxes payable : Income Taxes Payable - International,Other Current Liability,216
+10,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Other Benefits Payable,Other Current Liability,74
+10,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Other Current Liabilities : Deferred Rent,Other Current Liability,2798
+10,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Other Tax Liabilities : VAT,Other Current Liability,19
+10,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Employee HSA,Other Current Liability,5334
+10,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Other Current Liabilities : Accrued COGS,Other Current Liability,112452
+10,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Electric City Benefits Payable,Other Current Liability,30719
+10,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Commission accrual,Other Current Liability,21018
+10,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Office Manager,Other Current Liability,8547
+10,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Other Tax Liabilities : VAT,Other Current Liability,39
+10,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Benefits Payable,Other Current Liability,-11502
+10,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Accrued Payroll : Electric City Benefits Payable,Other Current Liability,7007
+10,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Other Current Liabilities : Accrued Expenses,Other Current Liability,8504
+10,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Retirement Contributions Payable,Other Current Liability,50002
+10,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Taxes Payable,Other Current Liability,5994
+10,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Other Current Liabilities : Accrued COGS,Other Current Liability,14399
+10,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Other Current Liabilities : Accrued Interest,Other Current Liability,67
+10,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Wages Payable,Other Current Liability,11
+10,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Commission accrual,Other Current Liability,13865
+10,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Other Current Liabilities : Accrued Interest,Other Current Liability,29
+10,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Other Tax Liabilities : VAT,Other Current Liability,99
+10,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Employee HSA,Other Current Liability,2071
+10,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Commission accrual,Other Current Liability,13213
+10,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Sales and other taxes payable : Income Taxes Payable - International,Other Current Liability,86
+10,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Taxes Payable,Other Current Liability,1517
+10,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Sales and other taxes payable : Provision for Income Taxes,Other Current Liability,14988
+10,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Accrued Payroll : Office Manager,Other Current Liability,1742
+10,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Employee HSA,Other Current Liability,4321
+10,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Taxes Payable,Other Current Liability,743
+10,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Commission accrual,Other Current Liability,360139
+10,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Commission accrual,Other Current Liability,103118
+10,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Sales and other taxes payable : Income Taxes Payable - International,Other Current Liability,363
+10,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Commission accrual,Other Current Liability,147
+10,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Sales and other taxes payable : Provision for Income Taxes,Other Current Liability,6499
+10,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Commission accrual,Other Current Liability,32269
+10,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Office Manager,Other Current Liability,5986
+10,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Other Current Liabilities : Deferred Rent,Other Current Liability,6964
+10,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Other Current Liabilities : Accrued Interest,Other Current Liability,48
+10,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Other Benefits Payable,Other Current Liability,27
+10,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Accrued Payroll : Office Manager,Other Current Liability,6234
+10,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Sales and other taxes payable : Provision for Income Taxes,Other Current Liability,7050
+10,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Benefits Payable,Other Current Liability,-14697
+10,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Electric City Benefits Payable,Other Current Liability,8058
+10,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Other Current Liabilities : Accrued Expenses,Other Current Liability,8977
+10,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Sales and other taxes payable : Provision for Income Taxes,Other Current Liability,41429
+10,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Commission accrual,Other Current Liability,97387
+10,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Other Tax Liabilities : VAT,Other Current Liability,50
+10,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Wages Payable,Other Current Liability,75
+10,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Other Current Liabilities : Deferred Rent,Other Current Liability,46038
+10,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Other Tax Liabilities : VAT,Other Current Liability,8
+10,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Other Current Liabilities : Accrued COGS,Other Current Liability,65074
+10,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Other Current Liabilities : Accrued COGS,Other Current Liability,79763
+10,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Benefits Payable,Other Current Liability,-11835
+10,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Accrued Payroll : Electric City Benefits Payable,Other Current Liability,4647
+10,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Other Current Liabilities : Accrued Interest,Other Current Liability,73
+10,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Sales and other taxes payable : Income Taxes Payable - International,Other Current Liability,467
+10,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Other Current Liabilities : Accrued Expenses,Other Current Liability,1882
+10,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Accrued Payroll : Other Benefits Payable,Other Current Liability,8
+10,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Other Current Liabilities : Customer Deposits,Other Current Liability,1037
+10,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Electric City Benefits Payable,Other Current Liability,22768
+10,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Commission accrual,Other Current Liability,110822
+10,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Other Current Liabilities : Accrued Expenses,Other Current Liability,28276
+10,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Other Current Liabilities : Accrued Interest,Other Current Liability,83
+10,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Other Tax Liabilities : VAT,Other Current Liability,48
+10,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Sales and other taxes payable : Income Taxes Payable - International,Other Current Liability,57
+10,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Wages Payable,Other Current Liability,2
+10,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Other Current Liabilities : Deferred Rent,Other Current Liability,26868
+10,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Other Tax Liabilities : VAT,Other Current Liability,26
+10,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Employee HSA,Other Current Liability,4833
+10,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Other Current Liabilities : Accrued COGS,Other Current Liability,47366
+10,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Taxes Payable,Other Current Liability,832
+10,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Accrued Payroll : Payroll Wages Payable,Other Current Liability,4162
+10,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Other Current Liabilities : Customer Deposits,Other Current Liability,832
+11,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Other Long-Term Liabilities : Convertible Note,Long Term Liability,80
+11,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Other Long-Term Liabilities : Deferred Tax Liability,Long Term Liability,15387
+11,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Other Long-Term Liabilities : Convertible Note,Long Term Liability,58
+11,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Other Long-Term Liabilities : Deferred Tax Liability,Long Term Liability,262
+11,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Other Long-Term Liabilities : Deferred Tax Liability,Long Term Liability,1280
+11,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Other Long-Term Liabilities : Deferred Tax Liability,Long Term Liability,5252
+11,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Other Long-Term Liabilities : Deferred Tax Liability,Long Term Liability,15404
+11,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Other Long-Term Liabilities : Convertible Note,Long Term Liability,62
+11,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Other Long-Term Liabilities : Convertible Note,Long Term Liability,47
+11,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Other Long-Term Liabilities : Convertible Note,Long Term Liability,36
+11,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Other Long-Term Liabilities : Deferred Tax Liability,Long Term Liability,11534
+11,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Other Long-Term Liabilities : Convertible Note,Long Term Liability,87
+12,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Deferred Revenue : Short Term,Deferred Revenue,1753
+12,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Deferred Revenue : Short Term,Deferred Revenue,1573
+12,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Deferred Revenue : Short Term,Deferred Revenue,5610084
+12,Jun 2023,2023-06-30 00:00:00.000000 UTC,Liability,Deferred Revenue : Short Term,Deferred Revenue,2896617
+12,Oct 2023,2023-10-31 00:00:00.000000 UTC,Liability,Deferred Revenue : Short Term,Deferred Revenue,11211323
+12,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Deferred Revenue : Short Term,Deferred Revenue,7638065
+12,Sep 2023,2023-09-30 00:00:00.000000 UTC,Liability,Deferred Revenue : Short Term,Deferred Revenue,10
+12,Jul 2023,2023-07-31 00:00:00.000000 UTC,Liability,Deferred Revenue : Short Term,Deferred Revenue,3053651
+12,May 2023,2023-05-31 00:00:00.000000 UTC,Liability,Deferred Revenue : Short Term,Deferred Revenue,6729024
+12,Aug 2023,2023-08-31 00:00:00.000000 UTC,Liability,Deferred Revenue : Short Term,Deferred Revenue,1667
+13,Sep 2023,2023-09-30 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,256185
+13,Oct 2023,2023-10-31 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,242514
+13,May 2023,2023-05-31 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,108
+13,May 2023,2023-05-31 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,11437705
+13,May 2023,2023-05-31 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,1
+13,Jul 2023,2023-07-31 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,157491
+13,Jun 2023,2023-06-30 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,7283825
+13,Aug 2023,2023-08-31 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,5459265
+13,May 2023,2023-05-31 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,164983
+13,Jul 2023,2023-07-31 00:00:00.000000 UTC,Equity,Cumulative Translation Adjustment-Elimination,Equity,394
+13,Oct 2023,2023-10-31 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,6323649
+13,Aug 2023,2023-08-31 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,7
+13,Jun 2023,2023-06-30 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,36
+13,Oct 2023,2023-10-31 00:00:00.000000 UTC,Equity,Retained Earnings,Equity,-1392877
+13,Aug 2023,2023-08-31 00:00:00.000000 UTC,Equity,Cumulative Translation Adjustment-Elimination,Equity,771
+13,Jun 2023,2023-06-30 00:00:00.000000 UTC,Equity,Cumulative Translation Adjustment-Elimination,Equity,564
+13,May 2023,2023-05-31 00:00:00.000000 UTC,Equity,Cumulative Translation Adjustment-Elimination,Equity,252
+13,Sep 2023,2023-09-30 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,3704798
+13,Aug 2023,2023-08-31 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,3548636
+13,Sep 2023,2023-09-30 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,3
+13,Oct 2023,2023-10-31 00:00:00.000000 UTC,Equity,Cumulative Translation Adjustment-Elimination,Equity,447
+13,Oct 2023,2023-10-31 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,12368386
+13,Jul 2023,2023-07-31 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,878557
+13,Jul 2023,2023-07-31 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,10
+13,Sep 2023,2023-09-30 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,2416105
+13,Aug 2023,2023-08-31 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,165624
+13,Jun 2023,2023-06-30 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,2
+13,Sep 2023,2023-09-30 00:00:00.000000 UTC,Equity,Cumulative Translation Adjustment-Elimination,Equity,472
+13,Sep 2023,2023-09-30 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,15821967
+13,Oct 2023,2023-10-31 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,28
+13,Aug 2023,2023-08-31 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,38
+13,Aug 2023,2023-08-31 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,15926541
+13,Oct 2023,2023-10-31 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,13159101
+13,Oct 2023,2023-10-31 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,8
+13,Jul 2023,2023-07-31 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,792810
+13,Sep 2023,2023-09-30 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,6
+13,Jun 2023,2023-06-30 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,130993
+13,May 2023,2023-05-31 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,3454793
+13,Jun 2023,2023-06-30 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,3086531
+13,Jul 2023,2023-07-31 00:00:00.000000 UTC,Equity,Equity : Paper Equity,Equity,13
+14,Jul 2023,2023-07-31 00:00:00.000000 UTC,Income,Retained Earnings,Retained Earnings,2881132
+14,Jul 2023,2023-07-31 00:00:00.000000 UTC,Expense,Retained Earnings,Retained Earnings,-4917178
+14,Jun 2023,2023-06-30 00:00:00.000000 UTC,Income,Retained Earnings,Retained Earnings,250228
+14,Sep 2023,2023-09-30 00:00:00.000000 UTC,Income,Retained Earnings,Retained Earnings,1946671
+14,Aug 2023,2023-08-31 00:00:00.000000 UTC,Income,Retained Earnings,Retained Earnings,9007
+14,Aug 2023,2023-08-31 00:00:00.000000 UTC,Expense,Retained Earnings,Retained Earnings,-11351638
+14,Jun 2023,2023-06-30 00:00:00.000000 UTC,Expense,Retained Earnings,Retained Earnings,-10592767
+14,May 2023,2023-05-31 00:00:00.000000 UTC,Expense,Retained Earnings,Retained Earnings,-1370675
+14,Sep 2023,2023-09-30 00:00:00.000000 UTC,Expense,Retained Earnings,Retained Earnings,-12562178
+14,May 2023,2023-05-31 00:00:00.000000 UTC,Income,Retained Earnings,Retained Earnings,442904
+14,Oct 2023,2023-10-31 00:00:00.000000 UTC,Expense,Retained Earnings,Retained Earnings,-6594256
+14,Oct 2023,2023-10-31 00:00:00.000000 UTC,Income,Retained Earnings,Retained Earnings,5234983
+15,May 2023,2023-05-31 00:00:00.000000 UTC,Expense,Net Income,Net Income,-5816325
+15,Aug 2023,2023-08-31 00:00:00.000000 UTC,Income,Net Income,Net Income,2386389
+15,Aug 2023,2023-08-31 00:00:00.000000 UTC,Expense,Net Income,Net Income,-13562760
+15,Oct 2023,2023-10-31 00:00:00.000000 UTC,Income,Net Income,Net Income,7816313
+15,Oct 2023,2023-10-31 00:00:00.000000 UTC,Expense,Net Income,Net Income,-11805828
+15,Sep 2023,2023-09-30 00:00:00.000000 UTC,Expense,Net Income,Net Income,-15239164
+15,Sep 2023,2023-09-30 00:00:00.000000 UTC,Income,Net Income,Net Income,5366312
+15,Jun 2023,2023-06-30 00:00:00.000000 UTC,Expense,Net Income,Net Income,-5417111
+15,May 2023,2023-05-31 00:00:00.000000 UTC,Income,Net Income,Net Income,616933
+15,Jul 2023,2023-07-31 00:00:00.000000 UTC,Income,Net Income,Net Income,4003648
+15,Jun 2023,2023-06-30 00:00:00.000000 UTC,Income,Net Income,Net Income,2309191
+15,Jul 2023,2023-07-31 00:00:00.000000 UTC,Expense,Net Income,Net Income,-5716284
+16,Aug 2023,2023-08-31 00:00:00.000000 UTC,Equity,Cumulative Translation Adjustment,Cumulative Translation Adjustment,-289
+16,Jun 2023,2023-06-30 00:00:00.000000 UTC,Equity,Cumulative Translation Adjustment,Cumulative Translation Adjustment,-2556
+16,May 2023,2023-05-31 00:00:00.000000 UTC,Equity,Cumulative Translation Adjustment,Cumulative Translation Adjustment,-936
+16,Oct 2023,2023-10-31 00:00:00.000000 UTC,Equity,Cumulative Translation Adjustment,Cumulative Translation Adjustment,-193
+16,Jul 2023,2023-07-31 00:00:00.000000 UTC,Equity,Cumulative Translation Adjustment,Cumulative Translation Adjustment,282
+16,Sep 2023,2023-09-30 00:00:00.000000 UTC,Equity,Cumulative Translation Adjustment,Cumulative Translation Adjustment,856

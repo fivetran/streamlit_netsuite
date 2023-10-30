@@ -19,12 +19,11 @@ else:
     ## Define the top level date filter
     st.header("Balance Sheet Details by Period")
     data, d = date_filter(dest=destination, db=database, sc=schema)
-    ## Include the optional filters as well
 
     ## Only generate the tiles if date range is populated
-    if d is not None and len(d) == 2 :
+    if d is not None and len(d) == 2:
         start_date, end_date = d
-        if start_date is not None:
+        if start_date is not None and start_date <= end_date:
             ## Filter data based on filters applied
             data_date_filtered = filter_data(start=start_date, end=end_date, data_ref=data)
 
@@ -75,3 +74,5 @@ else:
                         subtotal = "${:,.2f}".format(category_data['balance'].astype(float).sum())
                     st.write(f"**Total {category}:** {subtotal}")
                 first_run = False
+        else:
+            st.warning("Please ensure your starting period is before your ending period.")

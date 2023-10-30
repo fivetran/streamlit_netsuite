@@ -41,3 +41,7 @@ def filter_data(start, end, data_ref, model='bs'):
         data_date_filtered = data_ref.query("`accounting_period_ending` >= @start and `accounting_period_ending` <= @end")
 
     return data_date_filtered
+
+def extract_second_item(s):
+    parts = [part.strip() for part in s.split(":")]
+    return parts[1] if len(parts) > 1 else None
