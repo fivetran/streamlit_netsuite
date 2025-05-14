@@ -9,6 +9,12 @@ from functions.filters import date_filter, filter_data, extract_second_item
 from functions.variables import database_schema_variables, destination_selection
 from functions.query import query_results
 
+## Apply standard page settings.
+st.set_page_config(
+    layout="wide",
+    initial_sidebar_state="expanded",
+)
+
 st.sidebar.header('Data Connection Variables')
 destination = destination_selection()
 database, schema = database_schema_variables()
