@@ -15,6 +15,21 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
+# Hide sidebar with custom query param (used for embeding the app in Fivetran)
+hide_sidebar = st.query_params.get('hide_sidebar', 'false').lower() == 'true'
+if hide_sidebar:
+    st.markdown(
+        """
+        <style>
+            [data-testid="stSidebar"] {
+                display: none;
+            }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+
+
 st.sidebar.header('Data Connection Variables')
 destination = destination_selection()
 database, schema = database_schema_variables()
